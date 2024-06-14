@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TeamBlue1
+  - TeamRed1
+  - TeamBlue2
+  - TeamRed2
+  - TeamBlue3
+  - TeamRed3
+  - TeamBlue4
+  - TeamRed4
+  - TeamBlue5
+  - TeamRed5
+  - TeamBlue6
+  - TeamRed6
+  - SliderRed
+  - SliderBlue
+  - Ball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ball
+  - Water
+  - UI
+  - TeamBlue
+  - TeamRed
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1244132393
+    locked: 0
+  - name: Player
+    uniqueID: 3095602085
+    locked: 0
